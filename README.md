@@ -2,7 +2,7 @@
 
 ## Part 1
 
-to run the pipeline you only have to run the following command:
+To run the pipeline you only have to run the following command:
 
 bash pipeline.sh
 
